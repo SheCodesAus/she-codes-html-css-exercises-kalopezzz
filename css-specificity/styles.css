@@ -1,31 +1,23 @@
-
 nav a {
-    color: red;
+  color: yellow;
 }
-
 
 .nav-link {
-    color: black;
+  color: black;
 }
-
 
 nav a.nav-link {
-    color: green;
+  color: red;
 }
-
 
 nav a.nav-link#link-1 {
-    color: purple;
+  color: orange;
 }
-
 
 html div p {
-    color: darkgrey;
+  color: green;
 }
-
 
 body div p {
-    color: hotpink;
+  color: brown;
 }
-
-

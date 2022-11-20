@@ -1,0 +1,18 @@
+body {
+  background-color: lavender;
+}
+.list-item {
+  background-color: darkseagreen;
+}
+.nav-style1 {
+  background-color: mediumpurple;
+}
+.nav-style2 {
+  background-color: gold;
+}
+#first-paragraph {
+  background-color: lightcoral;
+}
+#page-content {
+  background-color: peachpuff;
+}
