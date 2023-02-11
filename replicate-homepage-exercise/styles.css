@@ -1,0 +1,97 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+a {
+  padding: 8px;
+  font-weight: 600px;
+  color: rgb(113, 113, 113);
+}
+
+nav a {
+  border-right: 1px solid grey;
+}
+
+nav:last-child {
+  border-right-width: 2px solid green;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+  font-size: 18px;
+}
+
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h1 {
+  line-height: 0px;
+  color: rgb(211, 23, 79);
+  font-weight: 900px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  color: rgb(211, 23, 79);
+}
+
+p {
+  font-size: 14px;
+  font-weight: 100px;
+}
+
+main {
+  background-color: rgb(244, 243, 243);
+}
+
+img {
+  width: 375px;
+  height: 225px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.selected {
+  color: rgb(211, 23, 79);
+}
+
+.subheading {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  font-weight: 900px;
+}
+.box {
+  background-color: #fff;
+  padding: 15px;
+  margin: 10px;
+  height: 450px;
+  width: 375px;
+  gap: 12px;
+}
+
+.text-contrast {
+  color: rgb(190, 189, 189);
+}
+
+#search {
+  width: 15px;
+  height: 15px;
+}
+
+#flex-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: center;
+  padding-bottom: 20px;
+}
